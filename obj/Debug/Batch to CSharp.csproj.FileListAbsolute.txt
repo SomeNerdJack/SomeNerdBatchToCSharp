@@ -1,0 +1,6 @@
+c:\users\trutech\documents\visual studio 2013\Projects\Batch to CSharp\Batch to CSharp\bin\Debug\Batch to CSharp.exe.config
+C:\Users\TRUTECH\documents\visual studio 2013\Projects\Batch to CSharp\Batch to CSharp\obj\Debug\Batch to CSharp.csprojResolveAssemblyReference.cache
+C:\Users\TRUTECH\documents\visual studio 2013\Projects\Batch to CSharp\Batch to CSharp\bin\Debug\Batch to CSharp.exe
+C:\Users\TRUTECH\documents\visual studio 2013\Projects\Batch to CSharp\Batch to CSharp\bin\Debug\Batch to CSharp.pdb
+C:\Users\TRUTECH\documents\visual studio 2013\Projects\Batch to CSharp\Batch to CSharp\obj\Debug\Batch to CSharp.exe
+C:\Users\TRUTECH\documents\visual studio 2013\Projects\Batch to CSharp\Batch to CSharp\obj\Debug\Batch to CSharp.pdb
